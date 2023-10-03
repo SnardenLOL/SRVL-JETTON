@@ -3,5 +3,6 @@
   "description": "SERVAL TEAM Token",
   "image": "https://raw.githubusercontent.com/SnardenLOL/SRVL-JETTON/main/serval.png",
   "symbol": "SRVL",
-  "decimals": "9"
+  "decimals": "9",
+"media":["https://t.me/SERVAL_TON","https://t.me/SERVAL_TON_CHAT"]
 }
